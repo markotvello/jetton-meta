@@ -1,7 +1,6 @@
 {
   "name": "Test External Evo Token",
   "symbol": "TEET",
-  "decimals": "6",
   "image": "https://i.sstatic.net/sjpNp.png",
   "description": "TEET for TON blockchain"
 }
